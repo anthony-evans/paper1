@@ -1,3 +1,9 @@
+#figure
+
+figures go in their own sectionO
+
+
+
 
 results
 
