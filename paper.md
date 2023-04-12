@@ -1,3 +1,17 @@
+simulations of biomass over west africa
+
+
+
+author
+
+co author
+
+
+introduction
+
+we present aircraft measurements of bboa over x
+
+
 #Add author names and paper title
 
 test 1
